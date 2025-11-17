@@ -1,4 +1,5 @@
-<img width="828" height="752" alt="142" src="https://github.com/user-attachments/assets/eb829f7a-cbfd-442a-a34d-edd6e43e4c95" />
+<img width="985" height="426" alt="4rfgh" src="https://github.com/user-attachments/assets/6c0d6c0c-7243-43ed-817c-911130d5c093" />
+
 
  👋 Hi, I’m @Timton
 
