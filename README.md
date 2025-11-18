@@ -6,3 +6,5 @@
 This is my little piece of Git, come in and take a look.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=timton909&theme=dark&hide_border=true)
+
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=timton909)
